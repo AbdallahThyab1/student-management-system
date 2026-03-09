@@ -21,13 +21,6 @@ You can add, delete, search for students and calculate their GPA.
 - JavaScript
 - Responsive design
 
-## 📂 Project files
-Student-Management-System/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
 
 ## 🎯 Concepts used
 - Arrays
